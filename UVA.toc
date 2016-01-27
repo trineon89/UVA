@@ -1,5 +1,7 @@
 ﻿## Interface: 60200
 ## Title: UVA
+## Notes: Unique Vengeance Assist
 ## Author: Grünfeder (trineon89)
+## Version: 1
 
 UVA.lua
